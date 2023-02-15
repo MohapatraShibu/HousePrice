@@ -2,7 +2,9 @@
 House Price Prediction using Flask in Heroku
 
 # Web Application Link
-https://house29.herokuapp.com/
+Heroku - https://house29.herokuapp.com/
 
+Render - https://render-house-price.onrender.com
 
+# Render Delpoy button
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
